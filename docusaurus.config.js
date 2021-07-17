@@ -25,6 +25,12 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
+        {
+          to: 'docs/tutorials/connecting-everything',
+          activeBasePath: 'docs/tutorials/connecting-everything',
+          label: 'Tutorials',
+          position: 'left',
+        },
   //      {to: 'blog', label: 'Blog', position: 'left'},
         {href: 'https://chia.net/blog', label: 'Blog', position: 'left'},
         {href: 'https://chia.net', label: 'Chia.net', position: 'left'},
