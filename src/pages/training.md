@@ -14,6 +14,8 @@ YouTube live stream will be on [this channel](https://www.youtube.com/channel/UC
 
 # Schedule
 
+<iframe src="https://calendar.google.com/calendar/embed?src=c_cl9timolv3l5tqsnmsqfriefb8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 |Event|Webinar Link|Time (PST)|Time (GMT)|Time (China)
 |---|---|---|---|---|
 |Kickoff talk "Why Chialisp" with Bram Cohen and Richard Kiss | Zoom Link TBD | Aug 9 20:00 US PST | Aug 10 03:00 GMT | Aug 10 11:00 China|
